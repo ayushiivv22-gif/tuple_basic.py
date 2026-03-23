@@ -1,0 +1,14 @@
+# Stack using list (LIFO)
+
+stack = []
+
+# push
+stack.append(10)
+stack.append(20)
+stack.append(30)
+
+print("Stack:", stack)
+
+# pop
+stack.pop()
+print("After pop:", stack)
